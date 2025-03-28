@@ -57,8 +57,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Manu0jeda/Manu0jeda/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Manu0jeda/count.svg?"  />
+</div>
 
 ###
